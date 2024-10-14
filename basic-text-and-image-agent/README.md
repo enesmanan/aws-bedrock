@@ -76,8 +76,8 @@ They'll be generated to the `output` directory.
 
 Example outputs:
 
-![Image_1](output\generated-0.png)
+![Image_1](output/generated-0.png)
 
-![Image_2](output\generated-2.png)
+![Image_2](output/generated-2.png)
 
 **Original Repo:** [https://github.com/pixegami/aws-bedrock-demo](https://github.com/pixegami/aws-bedrock-demo)
